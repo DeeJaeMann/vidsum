@@ -13,7 +13,7 @@ Everything runs locally — no cloud APIs, no external dependencies.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Fast, GPU‑accelerated transcription using Whisper large‑v3  
 - Clean `.txt` transcript output for downstream processing  
@@ -23,7 +23,7 @@ Everything runs locally — no cloud APIs, no external dependencies.
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.14  
 - PyTorch 2.10+ with CUDA  
@@ -32,7 +32,7 @@ Everything runs locally — no cloud APIs, no external dependencies.
 
 ---
 
-## 🎥 Transcription
+## Transcription
 
 Use `transcribe.py` to convert any video or audio file into a text transcript.
 
