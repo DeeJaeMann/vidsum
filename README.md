@@ -11,8 +11,6 @@ This project uses:
 
 Everything runs locally — no cloud APIs, no external dependencies.
 
----
-
 ## Features
 
 - Fast, GPU‑accelerated transcription using Whisper large‑v3  
@@ -21,16 +19,12 @@ Everything runs locally — no cloud APIs, no external dependencies.
 - Structured summaries designed for social media engagement  
 - Fully local, reproducible workflow  
 
----
-
 ## Requirements
 
 - Python 3.14  
 - PyTorch 2.10+ with CUDA  
 - FFmpeg installed and available on PATH  
 - Ollama installed with at least one model pulled (e.g., `llama3.1:8b`, `deepseek-r1:14b`)  
-
----
 
 ## Transcription
 
